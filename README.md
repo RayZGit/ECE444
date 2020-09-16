@@ -1,3 +1,3 @@
 # ECE444
-This repository is used to ECE444 Software Engineering\
+This repository is used for ECE444 Software Engineering\
 **Name: Rui Zhou**
