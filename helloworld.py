@@ -1,3 +1,3 @@
 
-print("4 years at U of T")
+print("4 years at UofT")
 
